@@ -7,9 +7,6 @@ This project aims to develop an auto-player for the **Quoridor** board game usin
 - [Installation](#installation)
 - [Usage](#usage)
 - [Algorithm](#algorithm)
-- [Project Structure](#project-structure)
-- [Contributors](#contributors)
-- [License](#license)
 
 ## Project Overview
 
@@ -81,7 +78,7 @@ After compiling the project, execute the following command to start the game:
 
 Monte-Carlo Tree Search (MCTS) is a decision-making algorithm used for games and decision processes that involve uncertainty. It works by simulating many possible game outcomes and using these simulations to build a tree of possible moves. Each node in the tree represents a game state, and the branches represent the possible moves.
 
-#### Four Key Steps in MCTS:
+### Four Key Steps in MCTS:
 
 1. **Selection**: 
    - Starting from the root node, select a child node to explore based on a selection policy (typically UCT - Upper Confidence bounds applied to Trees).
