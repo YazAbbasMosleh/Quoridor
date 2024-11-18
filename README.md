@@ -2,12 +2,6 @@
 
 This project aims to develop an auto-player for the **Quoridor** board game using the **Monte-Carlo Tree Search (MCTS)** algorithm. The project serves as the final project for the **Advanced Programming** course at **Amirkabir University of Technology**.
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Algorithm](#algorithm)
-
 ## Project Overview
 
 **Quoridor** is a two-player strategy board game where players take turns to either move their pawn or place a wall to block the opponent’s movement. The goal is to be the first to reach the opponent's side of the board.
